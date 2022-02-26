@@ -53,7 +53,7 @@ still working
 
 
 
-### Usage
+### For running the project on local machine
 Follow these steps to run the application on your local machine - 
 1. Clone this Repo to your Local Machine.
 2. Open The Terminal/CMD in the folder haxplore-2.0-Xterminate.
