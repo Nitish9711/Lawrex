@@ -36,16 +36,14 @@ still working
 
 #### Screenshots/
 ![Home](assets/landing.jpeg)
-![Client Landing](assets\clientLanding.jpeg)
-
-![appointment](assets\appointment.jpeg)
-
-![searching](assets\searching.jpeg)
-![payment](assets\payment.jpeg)
-![pricing](assets\pricing.jpeg)
-![profile](assets\profile.jpeg)
-![profile2](assets\profile2.jpeg)
-![contact](assets\contact.jpeg)
+![Client Landing](assets/clientLanding.jpeg)
+![appointment](assets/appointment.jpeg)
+![searching](assets/searching.jpeg)
+![payment](assets/payment.jpeg)
+![pricing](assets/pricing.jpeg)
+![profile](assets/profile.jpeg)
+![profile2](assets/profile2.jpeg)
+![contact](assets/contact.jpeg)
 
 
 
