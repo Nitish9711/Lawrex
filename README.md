@@ -35,7 +35,7 @@ still working
 
 
 #### Screenshots/
-![Home](assets\landing.jpeg)
+![Home](assets/landing.jpeg)
 ![Client Landing](assets\clientLanding.jpeg)
 
 ![appointment](assets\appointment.jpeg)
