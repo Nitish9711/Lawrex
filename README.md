@@ -27,12 +27,8 @@ _The following technologies will be used to make this application -_
 #### PPT LINK
 https://docs.google.com/presentation/d/12vdOG1mqgGB2ahSkocySrbJFBts7_9HbTquAPcuV1-I/edit?usp=sharing
 
-#### demo video LINK
-still working
-
-
 #### WEBSITE LINK
-
+https://lawrex.herokuapp.com/
 
 #### Screenshots/
 ![Home](assets/landing.jpeg)
